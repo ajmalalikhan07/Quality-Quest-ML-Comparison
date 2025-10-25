@@ -4,8 +4,8 @@ This project compares multiple Machine Learning algorithms on the **Wine Quality
 The goal is to identify the most accurate and efficient model for predicting wine quality based on physicochemical tests.
 
 ## 📊 Dataset
-- **Source:** [UCI ML Repository – Wine Quality Dataset]([https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/](https://archive.ics.uci.edu/dataset/186/wine+quality))
-- **Attributes:** 11 numerical input features + 1 target label (`quality`).
+- **Source:** [UCI ML Repository – Wine Quality Dataset](https://archive.ics.uci.edu/ml/dataset/186/wine+quality)
+- **Attributes:** 11 numerical input features + 1 target label (`quality`). 
 
 ## ⚙️ Algorithms Compared
 - Logistic Regression  
